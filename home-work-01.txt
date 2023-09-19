@@ -1,5 +1,5 @@
 # Dummy text in here to track changes
 
-- my first feature change 
+- my first main feature change 
 
 - my second change
