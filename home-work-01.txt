@@ -1,5 +1,10 @@
 # Dummy text in here to track changes
+<<<<<<< HEAD
 
 - my first main feature change 
 
 - my second change
+=======
+- my first feature change (1)
+- my second change (2)
+>>>>>>> feature1
